@@ -1,0 +1,11 @@
+{
+  "name": "saludo",
+  "version": "1.p",
+  "author": "prueva",
+  "description": "prueva para ter",
+  "source": "https://github.com/prueva/saludo.git",
+  "git_url": "https://github.com/prueva/saludo.git",
+  "main": "plugin.py",
+  "command": "saludo",
+  "default_function": "main"
+}
