@@ -10,7 +10,7 @@ import os
 def main_func():
     # Ejemplo: script que solicita el nombre del usuario y muestra un saludo
     print("¡Bienvenido al script!")
-    
+    print("Nueva version")
     nombre = input("Por favor, ingresa tu nombre: ").strip()
     
     if nombre:
